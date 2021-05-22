@@ -1,0 +1,9 @@
+Nombre de página: Galería X
+
+Página principal: Nombre de la página como objeto principal junto con un botón de "Play" para iniciar un recorrido en la galería.
+
+Segunda vista: Dentro de la galería vista de multiples pinturas en un "pasillo de galería de arte".
+
+Tercera Vista: Visualización individual de cada pieza/obra/pintura junto con su descripcción e historia.
+
+EL tema debe apelar a la felicidad y comodidad del usuario.
